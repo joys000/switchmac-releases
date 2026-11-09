@@ -4,7 +4,7 @@ Windows 11을 Mac처럼 바꿔 주는 무료 프로그램 **SwitchMac**의 베�
 
 - **내려받기:** 오른쪽 **Releases**에서 가장 위 버전의 `SwitchMac-Setup-*.exe`
 - **필요한 것:** Windows 11 22H2 이상
-- **설치 방법과 Windows 경고가 뜨는 이유:** 릴리스에 같이 올린 `설치 안내.txt`
+- **설치 방법과 Windows 경고가 뜨는 이유:** 릴리스에 같이 올린 `install-guide-ko.txt`(설치 안내)
 
 ## 받은 파일이 진짜인지 확인하기
 
